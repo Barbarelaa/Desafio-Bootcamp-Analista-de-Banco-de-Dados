@@ -1,5 +1,4 @@
-# Desafio-Bootcamp-Analista-de-Banco-de-Dados
-Enunciado
+# Enunciado:
 O IGTI inaugurará, em breve, seu site de E-commerce para serviços educacionais e 
 necessita de uma aplicação que permita o cadastramento de seus clientes e o controle dos 
 serviços adquiridos por eles. O IGTI trabalha com vários fornecedores (parceiros), que 
